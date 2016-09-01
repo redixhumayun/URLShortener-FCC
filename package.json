@@ -9,6 +9,9 @@
   "author": "Zaid Humayun",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.14.0",
+    "google-url": "0.0.4",
+    "mongodb": "^2.2.9",
+    "serve-favicon": "^2.3.0"
   }
 }
